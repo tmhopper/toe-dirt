@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_DxNXbAG28ENmZhjSYjvlKHB09iTv",
+  "orgId": "team_CDKopOHaI0ymzejCYt0sJFKn",
+  "projectName": "toedirt",
+  "settings": {
+    "createdAt": 1776699779582,
+    "framework": "nextjs",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
